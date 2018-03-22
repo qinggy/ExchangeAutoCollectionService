@@ -1,0 +1,14 @@
+F:\WorkSpace\Demo\back-end\ExchangeAutoCollectionService\ExchangeAutoCollectionService\bin\Debug\ExchangeAutoCollectionService.exe.config
+F:\WorkSpace\Demo\back-end\ExchangeAutoCollectionService\ExchangeAutoCollectionService\bin\Debug\ExchangeAutoCollectionService.exe
+F:\WorkSpace\Demo\back-end\ExchangeAutoCollectionService\ExchangeAutoCollectionService\bin\Debug\ExchangeAutoCollectionService.pdb
+F:\WorkSpace\Demo\back-end\ExchangeAutoCollectionService\ExchangeAutoCollectionService\obj\Debug\ExchangeAutoCollectionService.csprojResolveAssemblyReference.cache
+F:\WorkSpace\Demo\back-end\ExchangeAutoCollectionService\ExchangeAutoCollectionService\obj\Debug\ExchangeAutoCollectionService.ProjectInstaller.resources
+F:\WorkSpace\Demo\back-end\ExchangeAutoCollectionService\ExchangeAutoCollectionService\obj\Debug\ExchangeAutoCollectionService.csproj.GenerateResource.cache
+F:\WorkSpace\Demo\back-end\ExchangeAutoCollectionService\ExchangeAutoCollectionService\obj\Debug\ExchangeAutoCollectionService.csproj.CoreCompileInputs.cache
+F:\WorkSpace\Demo\back-end\ExchangeAutoCollectionService\ExchangeAutoCollectionService\obj\Debug\ExchangeAutoCollectionService.exe
+F:\WorkSpace\Demo\back-end\ExchangeAutoCollectionService\ExchangeAutoCollectionService\obj\Debug\ExchangeAutoCollectionService.pdb
+F:\WorkSpace\Demo\back-end\ExchangeAutoCollectionService\ExchangeAutoCollectionService\bin\Debug\NLog.dll
+F:\WorkSpace\Demo\back-end\ExchangeAutoCollectionService\ExchangeAutoCollectionService\bin\Debug\NLog.xml
+F:\WorkSpace\Demo\back-end\ExchangeAutoCollectionService\ExchangeAutoCollectionService\obj\Debug\ExchangeAutoCollectionService.AutoCollectionService.resources
+F:\WorkSpace\Demo\back-end\ExchangeAutoCollectionService\ExchangeAutoCollectionService\obj\Debug\ExchangeAutoCollectionService.csproj.CopyComplete
+F:\WorkSpace\Demo\back-end\ExchangeAutoCollectionService\ExchangeAutoCollectionService\bin\Debug\Microsoft.Exchange.WebServices.dll
